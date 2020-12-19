@@ -21,6 +21,8 @@ for i in range(itterations):
          duplicate = stack.copy()
          duplicate.sort()
          print(duplicate[0])
+
+         
          
 
    
