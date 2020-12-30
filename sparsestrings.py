@@ -10,7 +10,6 @@ for j in range(no_of_queries):
    query = input("Enter query: ").lower()
    queries.append(query)
 
-
 def matchStrings(strings, queries):
    dictionary, array = dict(), list()
    for string in strings:
